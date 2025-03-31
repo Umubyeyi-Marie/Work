@@ -4,4 +4,4 @@ function longestWord(str) {
         .reduce((longest, current) => current.length > longest.length ? current : longest, "");
 }
 
-console.log(longestWord("Hello, this is a my new challenge in this month!")); // "JavaScript"
+console.log(longestWord("Hello, this is a my new challenge in this month!")); 

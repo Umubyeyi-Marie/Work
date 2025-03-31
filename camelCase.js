@@ -7,4 +7,4 @@ function toCamelCase(str) {
         .join('');
 }
 
-console.log(toCamelCase("care_giver")); // "helloWorldExample"
+console.log(toCamelCase("care_giver")); 
